@@ -1,16 +1,9 @@
 # edspert_linkedin_chat
 
-A new Flutter project.
+Edspert Webinar For Linkedin Chat Portfolio
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Figma : [Linkedin UI Community](https://www.figma.com/file/Fwm5M8RWqEboP2K0gD192s/Linkedin-UI-(Community)?type=design&node-id=459-3697&mode=design&t=3oLxZVszXHklBFwF-0)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
